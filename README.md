@@ -1,2 +1,2 @@
 # Email-automation
-capstone project sem 2
+capstone project sem 2.
